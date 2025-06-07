@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "msd:block/floor",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "msd:block/floor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "msd:block/floor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "msd:block/floor",
+      "y": 270
+    }
+  }
+}
